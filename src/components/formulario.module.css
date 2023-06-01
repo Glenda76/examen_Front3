@@ -7,7 +7,7 @@
 .label{
     text-align: center;
     margin: 10px;
-    color: black;
+  
 }
 .input{
     width: 300px;
@@ -15,6 +15,7 @@
     margin: 15px 150px;
     border-radius: 15px;
     background-color: azure;
+    color: black;
 }
 .button{
     width: 200px;

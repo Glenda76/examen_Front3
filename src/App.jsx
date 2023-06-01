@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div>
-      <h1>Soy una tarjeta </h1>
+      <h1>Formulario</h1>
       <Card/>
    
     </div>
