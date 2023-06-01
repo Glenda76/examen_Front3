@@ -1,0 +1,22 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    font-size: 1.5em;
+
+}
+.label{
+    text-align: center;
+    margin: 10px;
+    color: black;
+}
+.input{
+    width: 300px;
+    padding: 15px 0;
+    margin: 15px 150px;
+    border-radius: 15px;
+    background-color: azure;
+}
+.button{
+    width: 200px;
+    margin: 15px 200px;
+}

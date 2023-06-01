@@ -1,0 +1,14 @@
+.card{
+    width: 600px;
+    height: 600px;
+    background-color:rgb(245, 200, 185);
+    border: 3px double palevioletred;
+    border-radius: 15px;
+    margin: 0px 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.datos{
+  margin: 20px 0px;
+}
